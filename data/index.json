@@ -42387,6 +42387,23 @@
           "read_on": "2026-11-24"
         }
       ]
+    },
+    {
+      "vendor": "Gregale",
+      "category": "Cloud Hosting",
+      "description": "Backend platform for small teams without an ops person; each app runs in its own Firecracker microVM. Free plan, $0: 1 deployed app with 256 MB RAM and 20 GB-RAM-hours of compute a month, 1 pull-request preview environment and 1 developer app. Free stops at its included allowance instead of billing overage. Billing stops about a second after each request, and an idle app resumes in milliseconds on the next one. Every production release goes to 1% of traffic first and rolls back automatically on errors (beta), on every plan.",
+      "tier": "Free",
+      "url": "https://gregale.dev/pricing",
+      "tags": [
+        "hosting",
+        "paas",
+        "deployment",
+        "microvm",
+        "firecracker",
+        "heroku-alternative",
+        "mcp"
+      ],
+      "verifiedDate": "2026-11-25"
     }
   ],
   "changes": []
